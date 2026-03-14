@@ -1,0 +1,4 @@
+interface:
+  display_name: "RMCP StreamHTTP"
+  short_description: "Use Rust rmcp streamable HTTP transport for MCP server/client."
+  default_prompt: "Use this skill to implement or debug MCP Streamable HTTP with modelcontextprotocol/rust-sdk (rmcp), including server setup, client setup, auth headers, session handling, and feature flags."
